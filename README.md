@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @tunglbt
-- 💼 I’m a full stack developer with several years of experience in Java web technologies and Front-End Web Development.
+- 💼 I’m a backend developer with several years of experience in Java web technologies.
 - 📄 You can see my CV on: https://tunglbt.github.io/curriculum-vitae/
